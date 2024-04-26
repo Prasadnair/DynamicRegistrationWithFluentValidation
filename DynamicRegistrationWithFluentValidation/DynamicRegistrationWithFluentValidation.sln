@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicRegistrationWithFluentValidation", "DynamicRegistrationWithFluentValidation\DynamicRegistrationWithFluentValidation.csproj", "{8605B285-84B0-49B1-95AF-F0BC0C670462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{CFB573DF-34E5-416A-9306-F4B99FCAF5C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8605B285-84B0-49B1-95AF-F0BC0C670462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8605B285-84B0-49B1-95AF-F0BC0C670462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8605B285-84B0-49B1-95AF-F0BC0C670462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8605B285-84B0-49B1-95AF-F0BC0C670462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB573DF-34E5-416A-9306-F4B99FCAF5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB573DF-34E5-416A-9306-F4B99FCAF5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB573DF-34E5-416A-9306-F4B99FCAF5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB573DF-34E5-416A-9306-F4B99FCAF5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA329330-6E7C-4082-AE95-3681AEC64F35}
+	EndGlobalSection
+EndGlobal
